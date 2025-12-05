@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kajus Site</title>
+    <link>https://Kajokas.github.io/</link>
+    <description>Recent content on Kajus Site</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Dec 2025 16:39:40 +0200</lastBuildDate>
+    <atom:link href="https://Kajokas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kajus</title>
+      <link>https://Kajokas.github.io/posts/kajus/</link>
+      <pubDate>Fri, 05 Dec 2025 16:39:40 +0200</pubDate>
+      <guid>https://Kajokas.github.io/posts/kajus/</guid>
+      <description>&lt;p&gt;This is a test if I understood it right!!
+More sentences!!!
+&lt;!-- raw HTML omitted --&gt;Html Test&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
